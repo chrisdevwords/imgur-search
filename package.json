@@ -1,6 +1,6 @@
 {
   "name": "imgur-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module for searching Imgur.com for images or fetching the images from a public album.",
   "main": "lib/imgur-search.js",
   "scripts": {
